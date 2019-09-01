@@ -12,38 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thirdLesson/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thirdLesson/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-              <folding>
-                <element signature="e#449#737#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secondLesson/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="15" selection-start-line="15" selection-end-line="28" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,14 +32,17 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/thirdLesson/app.js" />
         <option value="$PROJECT_DIR$/thirdLesson/routes.js" />
+        <option value="$PROJECT_DIR$/thirdLesson/package.json" />
+        <option value="$PROJECT_DIR$/fourthLesson/package.json" />
+        <option value="$PROJECT_DIR$/fourthLesson/routes.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
+    <option name="x" value="801" />
     <option name="y" value="23" />
-    <option name="width" value="1420" />
-    <option name="height" value="857" />
+    <option name="width" value="879" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,16 +59,6 @@
             <path>
               <item name="Learn-Node" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn-Node" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-Node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-Node" type="462c0819:PsiDirectoryNode" />
-              <item name="secondLesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-Node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-Node" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdLesson" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,6 +78,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fourthLesson" />
       <recent name="$PROJECT_DIR$/secondLesson" />
       <recent name="$PROJECT_DIR$/firstLesson" />
     </key>
@@ -142,23 +105,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565739732132</updated>
-      <workItem from="1565739733186" duration="7190000" />
+      <workItem from="1565739733186" duration="9623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7190000" />
+    <option name="totallyTimeSpent" value="9623000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1420" height="857" extended-state="0" />
-    <editor active="true" />
+    <frame x="801" y="23" width="879" height="1027" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494639" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32977304" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2687704" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32977304" />
@@ -196,6 +158,30 @@
     <entry file="file://$PROJECT_DIR$/secondLesson/message.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/thirdLesson/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdLesson/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#449#737#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdLesson/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/secondLesson/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -203,27 +189,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thirdLesson/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/secondLesson/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="15" selection-start-line="15" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="170">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thirdLesson/routes.js">
+    <entry file="file://$PROJECT_DIR$/fourthLesson/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fourthLesson/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#449#737#0" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fourthLesson/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
